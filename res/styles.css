@@ -165,7 +165,7 @@ section {
 
 .bg-image {
   
-  background-image: url(/res/background_1.jpg);
+  background-image: url(/res/background.jpg);
   background-attachment: scroll;
   background-position: 50% 50%;
   background-size: cover;
