@@ -165,7 +165,7 @@ section {
 
 .bg-image {
   
-  background-image: url(/res/background_1.jpg);
+  background-image: url(/res/background.jpg);
   background-attachment: scroll;
   background-position: 50% 50%;
   background-size: cover;
@@ -221,32 +221,31 @@ h1 {
   }
 }
 
+
 ::-webkit-input-placeholder {
- font-size: 20px;
+ font-size: 18px;
  color: #d0cdfa;
  text-transform: uppercase;
- text-transform: uppercase;
- text-align: center;
  font-weight: bold;
 }
 :-moz-placeholder { /* older Firefox*/
- font-size:20px;
+ font-size:18px;
  color: #d0cdfa;
  text-transform: uppercase;
- text-align: center;
+ 
  font-weight: bold;
 }
 ::-moz-placeholder { /* Firefox 19+ */ 
- font-size: 20px;
+ font-size: 18px;
  color: #d0cdfa; 
  text-transform: uppercase;
- text-align: center;
+ 
  font-weight: bold;
 } 
 :-ms-input-placeholder { 
- font-size: 20px; 
+ font-size: 18px; 
  color: #d0cdfa;
  text-transform: uppercase;
- text-align: center;
+
  font-weight: bold;
 }
