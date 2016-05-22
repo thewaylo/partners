@@ -249,3 +249,8 @@ h1 {
 
  font-weight: bold;
 }
+
+.navbar-default {
+    background-color: #FFF;
+}
+
