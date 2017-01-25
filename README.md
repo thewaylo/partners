@@ -1,2 +1,0 @@
-# partners
-Waylo's partners
